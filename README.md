@@ -1,3 +1,9 @@
+CYBERSECURITY AND ETHICAL HACKING.
+
+7 DAY INTERSHIP (09/05/23-13/05/23)
+
+Got insight about cybersecurity terminologies and had hands-on exercise on Kali linux.
+
 # kochi-workshop-09-23
 
 #### 1) [Install FTP in Kali-linux](https://keralahacker.github.io/kochi-workshop-09-23/Install%20FTP%20in%20Kali.html) 
